@@ -1,0 +1,9 @@
+package interface_builder;
+
+public class Main {
+
+    public static void main(String[] args) {
+
+    }
+
+}
